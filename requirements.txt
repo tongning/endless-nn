@@ -5,4 +5,5 @@ pandas==0.18.1
 Pillow==3.3.1
 PyUserInput==0.1.11
 scikit-learn==0.18.1
-wxPython==3.0.2.0
+wxPython
+scipy
