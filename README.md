@@ -5,9 +5,9 @@ Machine-Learning bot to play Endless Lake on facebook messenger
 
 ![](https://thumbs.gfycat.com/CarefreeBreakableAsiaticlesserfreshwaterclam-size_restricted.gif)
 
-# Dependencies
+# Dependencies (Ubuntu 17.04)
 ```
-sudo apt-get install python-xlib python-pydot python-opencv
+sudo apt-get install python-xlib python-pydot python-opencv dpkg-dev build-essential python2.7-dev libwebkitgtk-dev libjpeg-dev libtiff-dev libgtk2.0-dev libsdl1.2-dev libgstreamer-plugins-base1.0-dev libnotify-dev freeglut3 freeglut3-dev
 sudo pip install -r requirements.txt
 ```
 
